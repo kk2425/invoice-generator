@@ -1,0 +1,5 @@
+{
+  "name": "AI Invoice Generator",
+  "description": "An intelligent invoice generator that helps business owners create professional GST bills effortlessly using AI. Simply fill in the details, and let the AI format a perfect invoice for you.",
+  "requestFramePermissions": []
+}
